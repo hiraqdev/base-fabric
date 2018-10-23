@@ -1,8 +1,8 @@
 # base-fabric
 Skeleton for python fabric
 
-Dependencies: [Fabric 2.4](http://docs.fabfile.org/en/2.4/index.html)
-Package Manager: [Pipenv](http://pipenv.org/)
+- Dependencies: [Fabric 2.4](http://docs.fabfile.org/en/2.4/index.html)
+- Package Manager: [Pipenv](http://pipenv.org/)
 
 ## Installations
 
