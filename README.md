@@ -13,7 +13,7 @@ OBJECTIVE
 Provide basic skeleton to working using Fabric. What is Fabric ? Fabric is just
 like Ansible but more simpler. We can manage our automation flows with just simple
 python's script.  By the way, you can use this skeleton to create custom automate script
-and run it using GoCD too.
+and run it using GoCD or maybe Jenkins too.
 ---
 
 NOTE
